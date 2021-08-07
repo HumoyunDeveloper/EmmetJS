@@ -104,8 +104,4 @@ class Realbot {
     }
     return generated;
   }
-
-  getInfo() {
-    return { name: this.name, age: this.age };
-  }
 }
